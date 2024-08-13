@@ -22,7 +22,7 @@ Run Last_version.ipynb
 ## Acknowledgements
 
  - [TF-ID: Table/Figure IDentifier for academic papers](https://github.com/ai8hyf/TF-ID)
- - [table-detection-and-extraction](https://huggingface.co/foduucom/table-detection-and-extraction)
+ - [table-detection-and-extraction by foduucom](https://huggingface.co/foduucom/table-detection-and-extraction)
 
 
 ## Authors
