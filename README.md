@@ -3,7 +3,9 @@
 
 A Machine Learning Model Capable of Identifying Low-Value Pages on Professional Theses written in the Turkish Language in PDF Format 
 
+Low-Value pages are defined as follows: Table of Contents, Table of Figures, Tables of Tables, References, and Appendices.
 
+The model detects these pages and outputs a list that contains the page number of every page it has labeled as a Low-Value page.
 ## Features
 
 - Can read from CSV, PDF, and URL's
