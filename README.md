@@ -1,7 +1,7 @@
 
 # TR-PDF-PageClassifier
 
-A Machine Learning Model Capable of Identifying Low-Value Pages on Professional Theses written in the Turkish Language in PDF Format 
+A Deep Learning Model Capable of Identifying Low-Value Pages on Professional Theses written in the Turkish Language in PDF Format 
 
 Low-Value pages are defined as follows: Table of Contents, Table of Figures, Tables of Tables, References, and Appendices.
 
